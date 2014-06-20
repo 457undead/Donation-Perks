@@ -1,0 +1,10 @@
+ranks:
+  your rank name:
+    name: '&6rank would go here'
+    perks:
+    - '&2edit the config.yml, a perk would go here'
+    - 'same here'
+  second rank:
+    name: '&4another rank here'
+    perks:
+    - 'something something perk here'

@@ -1,0 +1,7 @@
+name: DonationPerks
+main: us.mycraft.Donationperksmain
+version: 1.0
+commands:
+    donationperks:
+        description: list all of the ranks
+        usage: /donationperks
